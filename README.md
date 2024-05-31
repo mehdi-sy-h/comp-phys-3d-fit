@@ -1,0 +1,2 @@
+This was my final project on PX281 - Computational Physics. It involved fitting 3D lines to cylinders. In particular, each line originates from a simulated electron and each cylidner is centered around a wire as part of a Geiger counter.
+My work on this project demonstrates ability in python multithreading to optimise scientific calculations performed using numpy and scipy, and visualizing the results using matplotlib.
